@@ -13,3 +13,6 @@
 [submodule "Dentalwear"]
 	path = Dentalwear
 	url = git@github.com:RDFBones/Dentalwear.git
+[submodule "DentDev"]
+	path = DentDev
+	url = git@github.com:RDFBones/DentDev.git
