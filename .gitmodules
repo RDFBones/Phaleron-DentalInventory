@@ -16,3 +16,6 @@
 [submodule "DentDev"]
 	path = DentDev
 	url = git@github.com:RDFBones/DentDev.git
+[submodule "Wearpatterns"]
+	path = Wearpatterns
+	url = git@github.com:RDFBones/Wearpatterns.git
