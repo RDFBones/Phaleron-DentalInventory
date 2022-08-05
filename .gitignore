@@ -5,3 +5,7 @@
 # Output from robot scripts
 
 results/*
+
+# LibreOffice lock files
+
+.~*
